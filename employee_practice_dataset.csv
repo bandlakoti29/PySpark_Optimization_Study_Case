@@ -1,0 +1,181 @@
+Employee_ID,Name,Age,Department,Salary,Joining_Date,City,Performance_Score,Email
+ emp-1000 ,MELVIN ALVAREZ,,sales ,36942,,Delhi,,marvin94@yahoo.com
+,Megan Olson,38,Marketing,107005,,hyd,,
+EMP1002,matthew,50,FINANCE,76k,2020-10-11,Hyderabad,five,invalid_email
+EMP1003,jessica,N/A,IT,59k,2025-01-18,BLR,,
+,BRENDA JOHNSON,,HR,unknown,2020-06-05,BLR,,jonesdavid@ellis-wilson.net
+,jamie,,support,105k,08-18-2017,Bangalore,2.9,invalid_email
+ emp-1006 ,,N/A,sales ,98846,,Bangalore,five,smithsteven
+EMP1007,William Evans,22,IT,,,Delhi,,murphyolivia
+EMP1008,,,support,65475,2017-08-10,Delhi,,floresmichael@gmail.com
+EMP1009,donald,,Sales,unknown,2023-11-22,Hyderabad,,carrollmichael
+EMP1010,George Howell,,FINANCE,unknown,26/03/2018,Mumbai,five,invalid_email
+EMP1011,,,support,97k,07-07-2021,Mumbai,,flane@williams-sosa.net
+EMP1012,PAUL ROSS,N/A,Marketing,,08/04/2021,Pune,five,invalid_email
+,Christina Jimenez MD,44,Marketing,96k,,Chennai,2.7,
+ emp-1014 ,martin,,Finance,unknown,14/09/2017,BLR,,mbrennan
+EMP1015,David Hernandez,60,Marketing,64447,05-18-2017,Bangalore,,
+EMP1016,Brandi Carter,,Finance,unknown,01-09-2021,Hyderabad,,elizabethbeltran@yahoo.com
+EMP1017,derek,45,Marketing,36623,04-21-2023,Bangalore,,
+EMP1018,daniel,,sales ,64k,12-08-2022,BLR,five,zgonzalez
+ emp-1019 ,connie,,Marketing,110k,2020-10-02,Chennai,,mannsamuel@collins-hanson.biz
+,,,IT,68k,01/05/2021,Hyderabad,,invalid_email
+ emp-1021 ,cheryl,N/A,Finance,93711,2017-04-09,Pune,2.7,
+,REBEKAH NELSON PHD,,FINANCE,50k,11-18-2016,BLR,1.6,invalid_email
+EMP1023,BRANDON LOVE,,sales ,unknown,16/09/2023,Hyderabad,,smorrison@hotmail.com
+,,,IT,88528,04-26-2025,Bangalore,3.0,barnescraig
+,,,FINANCE,,06-09-2021,Pune,,williamsdaniel@yahoo.com
+ emp-1026 ,,37,IT,111k,14/09/2019,Bangalore,,meganmoore@yahoo.com
+ emp-1027 ,anne,,FINANCE,87067,2019-10-20,BLR,five,bradleysanders@gmail.com
+EMP1028,robert,,IT,118k,2024-04-09,Mumbai,five,
+ emp-1029 ,Michelle Lynch,N/A,Finance,unknown,2022-09-18,Hyderabad,,
+,,,Sales,57382,27/02/2024,Mumbai,five,jclarke@gmail.com
+ emp-1031 ,Joyce Anderson,37,HR,,05-26-2023,Pune,,
+ emp-1032 ,SAMANTHA WOOD,N/A,IT,33364,,Delhi,,
+,tina,,Finance,unknown,12-04-2019,BLR,4.6,amberscott@martinez-miller.com
+,,,IT,,28/12/2023,hyd,,invalid_email
+EMP1035,,,FINANCE,,03-01-2023,hyd,,
+,,,FINANCE,unknown,,Bangalore,,
+ emp-1037 ,martin,54,FINANCE,47518,2017-10-31,Hyderabad,4.3,
+ emp-1038 ,Jessica Hart,,Finance,unknown,2022-01-24,Delhi,,invalid_email
+ emp-1039 ,ann,,Finance,73828,,Chennai,1.5,knightmichelle
+ emp-1040 ,Alicia Hayes,,Sales,,,Pune,five,michaelharris
+ emp-1041 ,,28,sales ,65k,11-04-2017,hyd,five,
+ emp-1042 ,,,IT,unknown,,Mumbai,2.2,amandamorgan
+EMP1043,,,FINANCE,unknown,,BLR,,
+EMP1044,justin,36,IT,unknown,,BLR,five,jerry63@yahoo.com
+ emp-1045 ,DENNIS WILLIAMS,58,sales ,36k,28/02/2022,Bangalore,five,oalexander@hotmail.com
+,,,Sales,,,Delhi,2.4,acostarobert@thomas.com
+EMP1047,gabriel,27,FINANCE,69375,21/11/2020,Delhi,,
+,ERIN CARLSON,N/A,Finance,86140,,Bangalore,five,invalid_email
+,,,Marketing,115k,,Bangalore,2.0,coxmaureen
+ emp-1050 ,MARK BECKER MD,,HR,53k,2018-08-07,Delhi,,elizabeth18@kim-lloyd.com
+,TRACY MYERS,,Finance,unknown,,Delhi,five,invalid_email
+ emp-1052 ,tara,25,Finance,unknown,2018-05-21,Bangalore,,delgadocarla@hotmail.com
+,,23,Finance,unknown,10-20-2024,Pune,five,jonesjames@martinez.com
+ emp-1054 ,Michelle Nguyen,21,sales ,76k,2017-09-02,Delhi,4.2,danielleparks
+EMP1055,Danny Neal,,sales ,unknown,,BLR,,joneschristine@hotmail.com
+EMP1056,mary,N/A,HR,,02-16-2024,Pune,five,
+EMP1057,DIAMOND SPEARS,22,Sales,55k,11-22-2023,Mumbai,,ysanders@walker.com
+EMP1058,Lee Hutchinson,N/A,sales ,106934,04/08/2020,hyd,five,allenwagner
+EMP1059,MICHAEL GRANT,N/A,support,61k,2018-01-03,BLR,,timothy56@yahoo.com
+EMP1060,ADAM GLOVER,,FINANCE,100780,08-07-2020,Delhi,2.2,victoriadavies@porter-smith.com
+EMP1061,AUSTIN JOHNSON,,FINANCE,116772,12/02/2021,BLR,,lukemccullough
+,debra,N/A,Finance,unknown,04-23-2023,Delhi,,
+ emp-1063 ,jason,40,HR,,21/01/2026,Mumbai,,invalid_email
+ emp-1064 ,,,Sales,unknown,,Mumbai,five,invalid_email
+EMP1065,BRIAN BROWN PHD,,Finance,unknown,01-22-2019,Hyderabad,3.5,hhays@smith-copeland.biz
+EMP1066,matthew,,IT,,28/06/2018,Bangalore,five,kathryn08@moore.com
+EMP1067,,,Sales,unknown,08-11-2016,Chennai,4.5,invalid_email
+,lori,22,Sales,106k,,Pune,,invalid_email
+,cynthia,,Sales,67k,22/09/2018,hyd,3.9,
+,dawn,,sales ,100k,2018-07-17,Chennai,,invalid_email
+ emp-1071 ,,,Finance,71k,10-02-2024,Bangalore,,thomaskathryn@yahoo.com
+,Charles Johnson,27,Marketing,,05-02-2024,Hyderabad,five,
+,CHRISTINA GARCIA,,Sales,unknown,11-13-2020,BLR,,michaeldaniels
+,KEVIN SANCHEZ,26,Marketing,,2022-09-24,Mumbai,,
+ emp-1075 ,,,Marketing,,09/01/2018,hyd,,
+ emp-1076 ,,,IT,31k,2024-12-02,Chennai,five,
+EMP1077,KAYLA FREEMAN,,IT,80344,,Bangalore,,invalid_email
+EMP1078,Christina Barnes,,sales ,unknown,07/12/2024,Bangalore,,invalid_email
+EMP1079,Amy Keith,N/A,sales ,65051,,Delhi,4.0,
+,DANIEL DIXON,34,Marketing,unknown,12-29-2023,hyd,,
+ emp-1081 ,,,Finance,56k,09/11/2016,BLR,,invalid_email
+,,,Marketing,96k,20/12/2024,Chennai,4.5,invalid_email
+,Logan Davis,,Finance,109k,,Pune,2.2,invalid_email
+ emp-1084 ,,N/A,Marketing,,,Pune,,invalid_email
+,Mary Brady,,HR,,08-24-2018,Bangalore,five,
+ emp-1086 ,Jillian Edwards,,Sales,31092,18/05/2018,Bangalore,five,istewart
+EMP1087,Kristina Bell,,Marketing,55876,04-26-2017,Mumbai,,qwalker@orr.org
+EMP1088,Kyle Andrade,,FINANCE,,23/09/2020,Mumbai,five,
+EMP1089,christopher,N/A,HR,unknown,13/07/2016,Mumbai,,
+EMP1090,JOSHUA EVANS,N/A,Sales,,20/02/2017,Pune,,kjoyce@lewis-snyder.com
+EMP1091,,N/A,FINANCE,74k,,Mumbai,five,
+,CHRISTOPHER HAYDEN,N/A,sales ,unknown,02-24-2019,hyd,4.3,pjones@peterson.org
+ emp-1093 ,THOMAS BUSH,24,FINANCE,106k,2021-11-04,hyd,,ruben50@lawrence.com
+EMP1094,Christine Morgan,N/A,Marketing,69k,2021-10-07,Mumbai,five,
+ emp-1095 ,,N/A,support,unknown,12-05-2018,Delhi,five,invalid_email
+ emp-1096 ,Brandon Miles,,Marketing,35336,11-20-2021,BLR,,derrick84
+,Brian Allen,N/A,sales ,28059,16/12/2024,Chennai,,rachel76
+EMP1098,Luke Sanders,54,Marketing,,19/09/2023,Pune,five,mglenn
+,Mary Hill,,FINANCE,84k,05-21-2024,Pune,five,invalid_email
+,COURTNEY HOLT,,HR,,20/09/2025,Bangalore,,browncarlos
+,Jennifer Terry,N/A,sales ,,10-03-2016,Bangalore,,invalid_email
+ emp-1102 ,april,,Marketing,unknown,06-23-2021,hyd,,
+,Kyle Jones,59,sales ,98k,18/10/2021,Mumbai,,
+EMP1104,Joshua Henderson,N/A,Sales,unknown,,Mumbai,five,uhurley@gmail.com
+,PAMELA RICHARDSON,,sales ,64274,12-16-2016,hyd,2.0,invalid_email
+ emp-1106 ,Richard Martinez,,support,unknown,05-10-2018,BLR,,
+ emp-1107 ,ALLISON RICHARDS,N/A,Finance,25k,31/01/2017,BLR,1.9,alicia06
+,Melinda Williams,,FINANCE,48k,,BLR,1.4,invalid_email
+ emp-1109 ,RANDALL HEBERT,N/A,Sales,116k,2018-09-03,Bangalore,,invalid_email
+EMP1110,CODY RUSSELL JR.,,FINANCE,106466,01/06/2016,Pune,,invalid_email
+EMP1111,Cynthia Campbell,N/A,sales ,,,Chennai,,invalid_email
+EMP1112,JACQUELINE RODRIGUEZ,N/A,IT,unknown,06-09-2024,Pune,,emiller@gmail.com
+ emp-1113 ,,,support,unknown,2024-07-26,Bangalore,4.5,
+ emp-1114 ,Michael Peters,,HR,,,Delhi,five,cooperamanda@lambert.info
+EMP1115,jessica,N/A,sales ,unknown,,Pune,,invalid_email
+EMP1116,tiffany,21,Finance,unknown,2023-06-17,Chennai,,invalid_email
+ emp-1117 ,annette,N/A,Marketing,,2022-01-28,Delhi,,invalid_email
+,Jacob Cole,25,IT,,2020-07-18,Bangalore,five,smithsamuel@mack.com
+ emp-1119 ,Jacob Smith,N/A,sales ,,25/08/2021,Mumbai,1.3,
+EMP1120,kim,28,HR,93238,21/04/2026,Chennai,4.6,
+ emp-1121 ,,,Marketing,77k,01-31-2025,Bangalore,five,
+ emp-1122 ,Kenneth Gibson,N/A,support,89924,,Chennai,,riggscarmen@yahoo.com
+EMP1123,,53,sales ,33045,,Mumbai,,gfreeman@yahoo.com
+,nicholas,,Marketing,99k,2025-01-16,Pune,five,invalid_email
+EMP1125,Thomas Perez,,Sales,108k,,Hyderabad,five,invalid_email
+,Andrew Solis,60,Finance,,,Mumbai,2.1,
+ emp-1127 ,,,Marketing,unknown,03-23-2019,Pune,,
+ emp-1128 ,,,HR,30381,13/05/2022,hyd,,
+EMP1129,hannah,,IT,,,Chennai,,
+EMP1130,MICHAEL WILLIAMS,,HR,25k,2018-08-14,BLR,five,nguyenkelly@hanson.com
+ emp-1131 ,,N/A,FINANCE,unknown,21/10/2017,hyd,2.5,uking
+ emp-1132 ,Cynthia Rivera,,IT,58k,02-12-2019,Hyderabad,4.5,ryandodson@stephens.net
+EMP1133,STEPHANIE VILLARREAL,N/A,Marketing,48k,12-11-2020,Delhi,,sobrien
+ emp-1134 ,Sharon Green,,Marketing,109155,23/10/2023,Chennai,five,michaelgreen@hotmail.com
+,,,Finance,unknown,07/10/2023,Chennai,,invalid_email
+,,N/A,Sales,unknown,01-09-2023,Bangalore,,
+ emp-1137 ,,,Marketing,unknown,07-01-2023,Hyderabad,,hartmaneric
+ emp-1138 ,ZACHARY OSBORNE,47,IT,,2017-12-08,hyd,,invalid_email
+ emp-1139 ,STEVEN WALKER,28,Sales,unknown,09-27-2021,Pune,,invalid_email
+,ellen,,sales ,107636,04/01/2023,Bangalore,,vyoung@carroll.com
+,,,support,,11-21-2025,Hyderabad,five,
+EMP1142,Corey Young,N/A,sales ,,04-20-2024,BLR,3.7,invalid_email
+ emp-1143 ,,N/A,Sales,,04-08-2021,Bangalore,,invalid_email
+ emp-1144 ,Randy Adams,N/A,sales ,unknown,07-09-2018,BLR,,
+EMP1145,christopher,,FINANCE,unknown,2024-11-07,hyd,,invalid_email
+ emp-1146 ,,20,sales ,96k,,Pune,3.9,vincent48
+EMP1147,,,Finance,,04-02-2026,Hyderabad,five,invalid_email
+,calvin,,HR,120k,25/07/2025,hyd,,robertwhitney@strickland.org
+EMP1149,,N/A,FINANCE,70k,,Pune,4.7,jmills@gmail.com
+EMP1150,MR. JOSEPH ROWE,43,sales ,unknown,10-03-2025,Hyderabad,,alex59@gmail.com
+,RICHARD BOWMAN,,Marketing,unknown,04-16-2020,Mumbai,1.6,
+EMP1152,Cheryl Johnson,N/A,sales ,87k,2017-06-12,Pune,,
+ emp-1153 ,,,HR,105271,,Pune,1.3,invalid_email
+,SHAUN BAUER,,Finance,unknown,,Chennai,five,kim18@walker.com
+EMP1155,,,IT,,2024-12-01,Mumbai,,invalid_email
+ emp-1156 ,Kenneth Alexander,40,IT,77978,2021-09-29,Hyderabad,five,xkrueger@zimmerman.org
+EMP1157,Jennifer Barrett,,HR,28k,07-17-2025,Hyderabad,,invalid_email
+,VANESSA WARD,,sales ,93860,13/05/2026,Pune,,chadhamilton@peters.biz
+,Laura Stevens,,Finance,98564,08-09-2016,hyd,five,
+EMP1160,MARK NEAL,N/A,Sales,unknown,08-16-2017,Delhi,,
+,JOHN GARDNER,N/A,Marketing,unknown,2017-12-10,Bangalore,five,bglenn@aguilar-cobb.com
+,ronald,,Sales,,18/08/2018,Hyderabad,,kkelly@walker-jenkins.net
+EMP1163,tracy,,support,35327,21/09/2017,Pune,1.1,pmalone
+EMP1164,,26,Marketing,34k,07/07/2023,Delhi,,invalid_email
+EMP1165,BONNIE FIGUEROA,N/A,Finance,unknown,2021-07-03,Pune,,
+ emp-1166 ,MS. DIANE CARTER,,sales ,76k,2017-04-09,hyd,2.8,michaelgarcia
+EMP1167,Kristin Landry,49,Finance,25374,21/01/2022,Chennai,,
+,CHRIS CARNEY,53,Finance,,03-14-2025,Chennai,,larnold@hotmail.com
+ emp-1169 ,Kelly Jones,43,Marketing,unknown,03-24-2026,Mumbai,,kellyturner
+ emp-1170 ,Kevin Goodwin,,sales ,27451,2022-05-16,Delhi,4.1,
+,Sarah Dixon,N/A,HR,69126,2021-07-01,hyd,,invalid_email
+,kristen,,IT,unknown,27/05/2019,BLR,five,
+ emp-1173 ,NATHAN HARMON,,sales ,,08/06/2020,Hyderabad,3.5,wheelersusan
+EMP1174,,58,sales ,,10-14-2024,Delhi,,
+EMP1175,Michael Smith,N/A,FINANCE,46k,01-09-2026,Mumbai,2.8,huntrobert
+EMP1176,MR. ANTHONY GILBERT,N/A,support,29080,2024-11-30,Delhi,2.9,invalid_email
+,,N/A,HR,,,Bangalore,,invalid_email
+ emp-1178 ,amanda,,Marketing,,08-09-2025,hyd,,deleonrodney
+EMP1179,MARK MCDANIEL,58,IT,41266,2022-02-19,Hyderabad,five,jenniferwalker
